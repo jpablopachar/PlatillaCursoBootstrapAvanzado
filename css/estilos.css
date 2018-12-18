@@ -1,0 +1,46 @@
+/* Colores */
+.text-naranja { color: #FFA500 }
+.text-celeste { color: #00BFFF }
+.text-plomo { color: rgb(169, 169, 169) }
+.bg-naranja { background-color: #E76E22 }
+.bg-celeste { background-color: #00BFFF }
+.btn-naranja {
+  color: #fff;
+  background-color: #FFA500;
+  border-color: #FFA500;
+}
+.btn-naranja:hover {
+  color: #fff;
+  background-color: #E76E22;
+  border-color: #E76E22;
+}
+.btn-celeste {
+  color: #fff;
+  background-color: #1E90FF;
+  border-color: #1E90FF;
+}
+.btn-celeste:hover {
+  color: #fff;
+  background-color: #00BFFF;
+  border-color: #00BFFF;
+  transition: all 1s ease;
+}
+
+.intro-area { padding: 100px 0; }
+
+.sub-texto { margin-bottom: 75px; }
+
+.intro-block h3 { font-size: 18px; }
+
+
+
+
+
+
+
+
+
+
+
+
+
