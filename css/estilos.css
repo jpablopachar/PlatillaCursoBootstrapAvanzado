@@ -32,6 +32,12 @@
 
 .intro-block h3 { font-size: 18px; }
 
+.feature-area {
+  padding: 100px 0 0 0;
+  background-image: url(../images/slide.jpeg);
+  background-size: cover;
+}
+
 
 
 
