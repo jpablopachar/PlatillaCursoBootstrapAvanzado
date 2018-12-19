@@ -42,6 +42,20 @@
   padding-top: 100px;
 }
 
+.testimonials {
+  padding: 100px 0;
+  background-image: url(../images/slide.jpeg);
+  background-size: cover;
+}
+
+.img-team { width: 136px }
+
+.border-team {
+  width: 140px;
+  height: 138px;
+  margin: 0 auto;
+}
+
 
 
 
